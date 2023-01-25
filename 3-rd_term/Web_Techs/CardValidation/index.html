@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="js.js"></script>
+    <title>CARD SITE</title>
+</head>
+<body>
+    <main>
+        <div class="main__wrapper">
+            <div class="main">
+                <form class="main__card-form" onsubmit="SubmitForm(event)">
+                    <div class="card-form__label"> 
+                        <div style="margin-right: 50px;">
+                            Введите данные банковской карты
+                        </div>
+                        <div>
+                            <img src="images/vizza_large.png"/>
+                        </div>
+                    </div>
+                    <div class="card__number__wrapper">
+                        <div style="">Номер карты</div>
+                        <div class="card-form__card-number">
+                            <input class="number-of-card" type="text" pattern="[0-9]{4}"/>
+                            <input class="number-of-card" type="text" pattern="[0-9]{4}"/>
+                            <input class="number-of-card" type="text" pattern="[0-9]{4}"/>
+                            <input class="number-of-card" type="text" pattern="[0-9]{4}"/>  
+                        </div>
+                    </div>
+                    <div class="card-name__wrapper">
+                        <div class="card-name__container">
+                            <div class="card-name">
+                                <div style="margin-bottom: 10px;"> Имя владельца</div>
+                                <input class="card-owner-name" type="text" pattern="[A-Za-z]{1,}"/>
+                            </div>
+                            <div class="card-valid">
+                                <div style="margin-bottom: 10px;">Действительна до</div>
+                                <select style="margin-right:10px;" class="card-month">
+                                    <option>01</option>
+                                    <option>02</option>
+                                    <option>03</option>
+                                    <option>04</option>
+                                    <option>05</option>
+                                    <option>06</option>
+                                    <option>07</option>
+                                    <option>08</option>
+                                    <option>09</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                </select>
+                                <select class="card-year">
+                                    <option>2023</option>
+                                    <option>2024</option>
+                                    <option>2025</option>
+                                    <option>2026</option>
+                                    <option>2027</option>
+                                </select>
+                            </div>
+                            <div class="card-cvv">
+                                <div style="margin-bottom: 10px; text-decoration: underline dotted;">CVV/CVC</div>
+                                <input class="newCvv" type="text" pattern="[0-9]{3}"/>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="form-text">Нажимая кнопку "Далее", Вы соглашаетесь с условиями Оферты об оказании информационно-технических услуг при осуществлении переводов денежных средств.</div>
+                    <div class="submit-button">
+                        <input type="submit" value="Отправить"/>
+                    </div>
+                </form>
+            </div>
+            <div class="card">
+                <div class="card-inner">
+                    <div class="front">
+                        <div class="row">
+                            <div class="chip">
+                                <img src="images/chip.png" width="60px">
+                                <span class="chip-span">###</span>
+                            </div>
+                            <img src="images/visa.png" width="80px">
+                        </div>
+                        <div class="row card-no new-card-number">
+                            <span class="new-card-number-container">####</span>
+                            <span class="new-card-number-container">####</span>
+                            <span class="new-card-number-container">####</span>
+                            <span class="new-card-number-container">####</span>
+                        </div>
+                        <div class="row card-holder">
+                             <span>CARD HOLDER</span>
+                             <span>VALID</span>
+                        </div>
+                        <div class="row name">
+                            <span class="new-card-owner-name">KTO TAM</span>
+                            <span class="new-card-term">##/##</span>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

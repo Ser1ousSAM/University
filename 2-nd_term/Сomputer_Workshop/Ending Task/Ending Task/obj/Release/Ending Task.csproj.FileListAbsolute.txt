@@ -1,0 +1,12 @@
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\bin\Release\Ending Task.exe.config
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\bin\Release\Ending Task.exe
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\bin\Release\Ending Task.pdb
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending_Task.Form1.resources
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending_Task.GistoForm.resources
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending_Task.Properties.Resources.resources
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.exe
+C:\Users\Gleb\source\repos\Ending Task\Ending Task\obj\Release\Ending Task.pdb

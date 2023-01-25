@@ -1,0 +1,11 @@
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\bin\Debug\AbobaCar.exe.config
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\bin\Debug\AbobaCar.exe
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\bin\Debug\AbobaCar.pdb
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.Form1.resources
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.Properties.Resources.resources
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.exe
+C:\Users\Gleb\source\repos\AbobaCar\AbobaCar\obj\Debug\AbobaCar.pdb

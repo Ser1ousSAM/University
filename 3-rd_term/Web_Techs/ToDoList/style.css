@@ -1,0 +1,129 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+html {
+    background: linear-gradient(45deg, greenyellow, dodgerblue);
+    height: 200%;
+    text-align: center;
+}
+
+.box {
+    width: 60%;
+    margin: 40px auto;
+    border: 3px dotted black;
+    padding: 20px 0;
+    border-radius: 30px;
+    box-shadow: 0 15px 45px;
+}
+
+.add-todo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:40px 0;
+}
+
+.checked {
+    background-color: rgb(134, 104, 104);
+}
+
+.deletion {
+    animation: opacity 1s ease-in-out;
+}
+
+@keyframes opacity {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.main-wrapper{
+    max-width: 500px;
+    margin:0 auto;
+}
+
+.todoItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:10px 10px;
+    padding: 10px;
+}
+
+#description-task, #add-task {
+    border: 0px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#description-task:focus{
+    border: 3px solid black;
+}
+
+#description-task{
+    width: 70%;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.add-todo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#add-task, .btn-delete {
+    border: 0;
+    border-radius: 20px;
+    background: linear-gradient(45deg, rgb(98, 220, 224), dodgerblue);
+}
+
+#add-task:hover{
+    cursor:pointer;
+    background: linear-gradient(45deg, rgb(198, 226, 41), rgb(78, 165, 124));
+}
+#add-task:focus{
+    border: 3px solid black;
+}
+.btn-delete:hover{
+    cursor:pointer;
+    border: 1px solid black;
+    background: linear-gradient(45deg, rgb(240, 101, 101), rgb(109, 170, 206));
+}
+
+.btn-delete{
+    width: 50px;
+}   
+
+.todo-list, .todo-list-completed {
+    min-height: 200px;
+}
+
+.description{
+    margin-left: 20px;
+}
+
+#prioritise{
+    width: 10%;
+    margin: 0 10px;
+    border: 0;
+    border-radius: 20px;
+    font-size: 20px;
+    text-indent: 20px;
+}
+#prioritise:focus{
+    border: 3px solid black;
+}

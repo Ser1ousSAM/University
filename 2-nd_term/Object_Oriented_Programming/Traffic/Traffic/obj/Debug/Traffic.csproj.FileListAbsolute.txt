@@ -1,0 +1,11 @@
+C:\Users\Gleb\source\repos\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Gleb\source\repos\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\Gleb\source\repos\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.Form1.resources
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Gleb\source\repos\Traffic\Traffic\obj\Debug\Traffic.pdb

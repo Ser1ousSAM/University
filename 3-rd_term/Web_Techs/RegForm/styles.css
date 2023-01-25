@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+html{
+  height: 2000px;
+  background: linear-gradient(45deg, greenyellow, dodgerblue);
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* height: 100%;
+  background: linear-gradient(45deg, greenyellow, dodgerblue); */
+  font-family: "Sansita Swashed", cursive;
+}
+.reg-form {
+  margin-top: 15px;
+  width: 500px;
+  background: #fff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.reg-form h1 {
+  font-size: 2em;
+  border-left: 5px solid dodgerblue;
+  padding: 10px;
+  color: #000;
+  letter-spacing: 5px;
+  margin-bottom: 60px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.inputbox {
+  width: 300px;
+  height: 50px;
+  margin-bottom: 30px;
+}
+.check-butt {
+  border: 2px solid #000;
+  outline: none;
+  background: none;
+  border-radius: 10px;
+  font-size: 1.2em;
+  font-family: "Sansita Swashed", cursive;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  padding: 10px 0;
+  margin-bottom: 30px;
+  width: 100px;
+}
+.check-butt:hover {
+  background: linear-gradient(45deg, greenyellow, dodgerblue);
+  color: #000 !important;
+	background-color: transparent;
+	text-shadow: nthree;
+  cursor: pointer;
+}
+
+fieldset {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+}
+
+#education{
+  width: 304px;
+  border: 2px solid #000;
+  outline: none;
+  background: none;
+  padding: 10px 0;
+  border-radius: 10px;
+  font-size: 1.2em;
+  font-family: "Sansita Swashed", cursive;
+}
+.male-span{
+  margin-bottom: 15px;
+}
+.male{
+  margin-bottom: 10px;
+}
+.reg-form-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.block{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+  border: 2px solid #000;
+  outline: none;
+  background: none;
+  padding: 10px 0;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+
+.invalid {
+  border: 2px solid red;
+}
+
+.invalidRadio {
+  border-bottom: 2px solid red;
+}

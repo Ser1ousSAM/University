@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cd407b1-bef4-4c0c-8a40-b41a87a8bbc4": {
+      "ProjectGuid": "0cd407b1-bef4-4c0c-8a40-b41a87a8bbc4",
+      "DisplayName": "Traffic",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

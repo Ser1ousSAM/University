@@ -1,0 +1,15 @@
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\frac.exe
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\frac.deps.json
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\frac.runtimeconfig.json
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\frac.dll
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\ref\frac.dll
+C:\Users\Gleb\source\repos\frac\frac\bin\Debug\net6.0\frac.pdb
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.AssemblyInfo.cs
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.dll
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\ref\frac.dll
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.pdb
+C:\Users\Gleb\source\repos\frac\frac\obj\Debug\net6.0\frac.genruntimeconfig.cache
